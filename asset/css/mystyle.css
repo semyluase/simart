@@ -1,0 +1,115 @@
+/*===================Navbar===================*/
+.navbar{
+	background-color: #822923 !important;
+	border-color: #ff0000 !important;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 2px;
+}
+
+.navbar-brand {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold !important;
+	color: #fff !important;
+}
+
+.navbar-collapse {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #fff !important;
+}
+
+.navbar-collapse a {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #fff !important;
+	font-weight: bold;
+}
+
+.navbar-collapse a:hover {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #949494 !important;
+	font-weight: bold;
+}
+
+/*===================Dropdown===================*/
+.dropdown-menu{
+	background-color: #822923 !important;
+}
+
+.dropdown-menu li a{
+	color: #fff !important;
+	font-weight: bold;
+}
+
+.dropdown-menu li a:hover{
+	color: #822923 !important;
+	font-weight: bold;
+}
+
+/*===================Table===================*/
+table thead th{
+	background-color: #e9e9e9 !important;
+	text-align: center;
+	font-weight: bold;
+	border-color: #b9b9b9 !important;
+}
+
+/*===================Footer===================*/
+.footer1{
+	background-color: #822923 !important;
+	color: #fff;
+}
+
+.footer1 a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.footer1 a:hover{
+	color: #949494;
+	text-decoration: underline;
+}
+
+.footer1 .center{
+	text-align: center;
+}
+
+.footer-bottom{
+	background-color: #461613 !important;
+	border-top: 1px solid #0e0e0e;
+	color: #fff;
+}
+
+.footer-bottom a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.footer-bottom a:hover{
+	color: #949494;
+	text-decoration: underline;
+}
+
+.footer-bottom .left{
+	float: left;
+}
+
+.footer-bottom .right{
+	float: right;
+}
+
+/*===================Helper===================*/
+.ctr{
+	text-align: center;
+}
+
+.sep{
+	padding-left: 100px;
+	border-bottom: 1px dashed #DDD;
+	margin: 10px 0;
+}
+
+.pem{
+	border-left: 1px solid #949494;
+}
